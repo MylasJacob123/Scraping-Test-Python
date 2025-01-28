@@ -1,1149 +1,575 @@
-Player,Salary
-,2024/25
-,"$55,761,217"
-,"$51,415,938"
-,"$51,415,938"
-,"$51,179,020"
-,"$50,203,930"
-,"$49,205,800"
-,"$49,205,800"
-,"$49,205,800"
-,"$49,205,800"
-,"$49,205,800"
-,"$48,798,677"
-,"$48,787,676"
-,"$48,787,676"
-,"$48,728,845"
-,"$43,827,586"
-,"$43,219,440"
-,"$43,031,940"
-,"$43,031,940"
-,"$43,031,940"
-,"$42,846,615"
-,"$42,176,400"
-,"$42,176,400"
-,"$42,176,400"
-,"$42,176,400"
-,"$41,000,000"
-,"$40,500,000"
-,"$40,338,144"
-,"$36,725,670"
-,"$36,725,670"
-,"$36,725,670"
-,"$36,637,932"
-,"$36,016,200"
-,"$36,016,200"
-,"$35,859,950"
-,"$35,859,950"
-,"$35,410,310"
-,"$35,147,000"
-,"$35,147,000"
-,"$34,848,340"
-,"$34,848,340"
-,"$34,848,340"
-,"$34,005,250"
-,"$34,005,126"
-,"$33,653,846"
-,"$33,333,333"
-,"$33,073,920"
-,"$32,500,000"
-,"$31,666,667"
-,"$30,000,000"
-,"$30,000,000"
-,"$29,793,104"
-,"$29,651,786"
-,"$29,517,134"
-,"$29,347,826"
-,"$29,268,293"
-,"$29,000,000"
-,"$27,556,817"
-,"$27,173,913"
-,"$26,580,000"
-,"$26,276,786"
-,"$25,892,857"
-,"$25,794,643"
-,"$25,365,854"
-,"$25,257,798"
-,"$25,000,000"
-,"$24,960,001"
-,"$24,924,126"
-,"$24,107,143"
-,"$23,522,727"
-,"$23,400,000"
-,"$23,300,000"
-,"$23,017,242"
-,"$23,000,000"
-,"$23,000,000"
-,"$22,841,455"
-,"$22,757,000"
-,"$22,500,000"
-,"$22,500,000"
-,"$22,265,280"
-,"$22,255,493"
-,"$21,696,429"
-,"$21,395,348"
-,"$20,210,285"
-,"$20,071,429"
-,"$20,000,000"
-,"$20,000,000"
-,"$19,928,500"
-,"$19,500,000"
-,"$19,406,000"
-,"$19,241,379"
-,"$19,032,850"
-,"$19,000,000"
-,"$18,692,307"
-,"$18,350,000"
-,"$18,144,000"
-,"$18,125,000"
-,"$18,000,000"
-,"$18,000,000"
-,"$17,405,203"
-,"$17,260,000"
-,"$17,000,000"
-,"$16,830,357"
-,"$16,741,200"
-,"$16,615,384"
-,"$16,500,000"
-,"$16,193,183"
-,"$15,873,016"
-,"$15,625,000"
-,"$15,625,000"
-,"$15,500,000"
-,"$15,212,068"
-,"$15,000,000"
-,"$14,924,167"
-,"$14,318,182"
-,"$14,092,577"
-,"$14,000,000"
-,"$13,986,432"
-,"$13,940,809"
-,"$13,394,160"
-,"$13,025,250"
-,"$13,025,250"
-,"$12,991,650"
-,"$12,976,362"
-,"$12,976,362"
-,"$12,975,000"
-,"$12,900,000"
-,"$12,822,000"
-,"$12,804,878"
-,"$12,768,664"
-,"$12,654,321"
-,"$12,648,321"
-,"$12,600,000"
-,"$12,578,286"
-,"$12,569,040"
-,"$12,500,000"
-,"$12,500,000"
-,"$12,483,048"
-,"$12,428,571"
-,"$12,160,800"
-,"$12,000,000"
-,"$11,950,000"
-,"$11,743,210"
-,"$11,539,000"
-,"$11,445,000"
-,"$11,424,382"
-,"$11,423,077"
-,"$11,245,680"
-,"$11,227,657"
-,"$11,205,000"
-,"$11,025,000"
-,"$11,000,000"
-,"$11,000,000"
-,"$11,000,000"
-,"$11,000,000"
-,"$10,880,640"
-,"$10,810,000"
-,"$10,714,286"
-,"$10,514,017"
-,"$10,460,000"
-,"$10,259,449"
-,"$10,185,186"
-,"$10,130,980"
-,"$10,098,960"
-,"$9,975,962"
-,"$9,900,000"
-,"$9,890,000"
-,"$9,770,880"
-,"$9,523,810"
-,"$9,500,000"
-,"$9,423,869"
-,"$9,375,000"
-,"$9,300,000"
-,"$9,250,000"
-,"$9,249,748"
-,"$9,188,385"
-,"$9,130,000"
-,"$9,105,120"
-,"$9,104,167"
-,"$9,057,971"
-,"$8,888,889"
-,"$8,809,560"
-,"$8,780,488"
-,"$8,780,488"
-,"$8,571,429"
-,"$8,571,429"
-,"$8,500,000"
-,"$8,376,291"
-,"$8,352,367"
-,"$8,245,320"
-,"$8,149,001"
-,"$8,120,000"
-,"$8,000,000"
-,"$8,000,000"
-,"$8,000,000"
-,"$8,000,000"
-,"$7,983,000"
-,"$7,977,240"
-,"$7,975,000"
-,"$7,723,000"
-,"$7,692,308"
-,"$7,636,307"
-,"$7,607,754"
-,"$7,565,217"
-,"$7,500,000"
-,"$7,488,720"
-,"$7,245,720"
-,"$7,142,857"
-,"$7,007,092"
-,"$7,000,000"
-,"$6,945,240"
-,"$6,836,400"
-,"$6,696,429"
-,"$6,669,000"
-,"$6,614,160"
-,"$6,500,000"
-,"$6,451,077"
-,"$6,440,678"
-,"$6,362,433"
-,"$6,262,920"
-,"$6,166,667"
-,"$6,165,000"
-,"$6,133,005"
-,"$6,059,520"
-,"$6,000,000"
-,"$6,000,000"
-,"$5,893,768"
-,"$5,848,366"
-,"$5,803,269"
-,"$5,756,880"
-,"$5,705,887"
-,"$5,631,296"
-,"$5,570,040"
-,"$5,555,920"
-,"$5,469,120"
-,"$5,424,654"
-,"$5,291,160"
-,"$5,278,165"
-,"$5,250,000"
-,"$5,250,000"
-,"$5,200,000"
-,"$5,195,520"
-,"$5,168,000"
-,"$5,168,000"
-,"$5,159,854"
-,"$5,027,040"
-,"$5,014,409"
-,"$5,000,000"
-,"$5,000,000"
-,"$5,000,000"
-,"$4,935,960"
-,"$4,908,373"
-,"$4,775,760"
-,"$4,763,543"
-,"$4,741,800"
-,"$4,710,144"
-,"$4,689,000"
-,"$4,668,000"
-,"$4,668,000"
-,"$4,536,840"
-,"$4,525,706"
-,"$4,510,905"
-,"$4,454,880"
-,"$4,435,380"
-,"$4,312,500"
-,"$4,310,280"
-,"$4,298,956"
-,"$4,296,682"
-,"$4,231,800"
-,"$4,158,439"
-,"$4,094,280"
-,"$4,084,265"
-,"$4,041,249"
-,"$4,020,360"
-,"$4,018,363"
-,"$4,015,938"
-,"$4,000,000"
-,"$3,989,122"
-,"$3,960,531"
-,"$3,938,271"
-,"$3,879,830"
-,"$3,850,000"
-,"$3,819,120"
-,"$3,695,160"
-,"$3,685,800"
-,"$3,628,440"
-,"$3,519,960"
-,"$3,510,480"
-,"$3,500,000"
-,"$3,500,000"
-,"$3,465,000"
-,"$3,379,068"
-,"$3,352,680"
-,"$3,326,160"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,303,771"
-,"$3,244,080"
-,"$3,237,691"
-,"$3,217,920"
-,"$3,193,200"
-,"$3,150,000"
-,"$3,114,342"
-,"$3,107,143"
-,"$3,089,640"
-,"$3,087,519"
-,"$3,065,640"
-,"$3,051,153"
-,"$3,036,040"
-,"$3,003,427"
-,"$3,003,427"
-,"$3,003,427"
-,"$3,000,000"
-,"$3,000,000"
-,"$2,990,040"
-,"$2,988,550"
-,"$2,965,920"
-,"$2,875,000"
-,"$2,870,406"
-,"$2,850,000"
-,"$2,847,240"
-,"$2,845,342"
-,"$2,825,520"
-,"$2,800,834"
-,"$2,800,834"
-,"$2,800,834"
-,"$2,800,834"
-,"$2,795,294"
-,"$2,755,229"
-,"$2,733,720"
-,"$2,726,603"
-,"$2,664,031"
-,"$2,654,644"
-,"$2,624,280"
-,"$2,622,360"
-,"$2,620,232"
-,"$2,613,120"
-,"$2,613,120"
-,"$2,587,108"
-,"$2,571,030"
-,"$2,560,975"
-,"$2,552,596"
-,"$2,546,640"
-,"$2,537,040"
-,"$2,534,024"
-,"$2,530,800"
-,"$2,512,680"
-,"$2,494,320"
-,"$2,464,200"
-,"$2,463,946"
-,"$2,463,946"
-,"$2,448,840"
-,"$2,425,403"
-,"$2,425,403"
-,"$2,425,403"
-,"$2,425,403"
-,"$2,425,403"
-,"$2,425,403"
-,"$2,413,560"
-,"$2,237,692"
-,"$2,237,691"
-,"$2,237,691"
-,"$2,237,691"
-,"$2,230,253"
-,"$2,208,856"
-,"$2,196,970"
-,"$2,196,970"
-,"$2,196,970"
-,"$2,164,993"
-,"$2,162,607"
-,"$2,162,606"
-,"$2,162,606"
-,"$2,162,606"
-,"$2,162,606"
-,"$2,162,606"
-,"$2,162,606"
-,"$2,120,693"
-,"$2,120,693"
-,"$2,120,693"
-,"$2,120,693"
-,"$2,092,344"
-,"$2,092,344"
-,"$2,088,033"
-,"$2,087,519"
-,"$2,087,519"
-,"$2,087,519"
-,"$2,048,780"
-,"$2,019,699"
-,"$2,019,699"
-,"$2,019,699"
-,"$2,019,699"
-,"$2,019,699"
-,"$2,019,699"
-,"$2,019,699"
-,"$1,988,598"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,891,857"
-,"$1,862,265"
-,"$1,862,265"
-,"$1,862,265"
-,"$1,862,265"
-,"$1,850,842"
-,"$1,808,080"
-,"$1,682,008"
-,"$1,407,153"
-,"$1,300,000"
-,"$1,285,475"
-,"$1,184,388"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,157,153"
-,"$1,115,128"
-,"$1,112,306"
-,"$1,079,751"
-,"$1,051,255"
-,"$1,000,000"
-,"$978,541"
-,"$937,214"
-,"$864,902"
-,"$702,311"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$578,577"
-,"$576,273"
-,"$576,230"
-,"$555,217"
-,"$534,045"
-,"$479,642"
-,"$464,050"
-,"$427,879"
-,"$424,951"
-,"$424,672"
-,"$391,905"
-,"$379,911"
-,"$350,668"
-,"$344,234"
-,"$331,365"
-,"$331,365"
-,"$324,931"
-,"$315,280"
-,"$315,280"
-,"$306,660"
-,"$305,628"
-,"$289,289"
-,"$289,289"
-,"$289,289"
-,"$278,782"
-,"$274,809"
-,"$268,032"
-,"$250,937"
-,"$250,000"
-,"$244,502"
-,"$244,502"
-,"$238,068"
-,"$215,548"
-,"$186,594"
-,"$176,943"
-,"$175,480"
-,"$175,480"
-,"$143,308"
-,"$135,120"
-,"$126,356"
-,"$124,288"
-,"$100,000"
-,"$79,804"
-,"$77,500"
-,"$77,500"
-,"$77,500"
-,"$75,000"
-PLAYER,
-Stephen Curry,
-Nikola Jokic,
-Joel Embiid,
-Kevin Durant,
-Bradley Beal,
-Jaylen Brown,
-Karl-Anthony Towns,
-Devin Booker,
-Paul George,
-Kawhi Leonard,
-Jimmy Butler,
-Damian Lillard,
-Giannis Antetokounmpo,
-LeBron James,
-Rudy Gobert,
-Anthony Davis,
-Trae Young,
-Zach LaVine,
-Luka Doncic,
-Fred VanVleet,
-Lauri Markkanen,
-Tyrese Haliburton,
-Pascal Siakam,
-Anthony Edwards,
-Kyrie Irving,
-Domantas Sabonis,
-Ben Simmons,
-Darius Garland,
-Ja Morant,
-Zion Williamson,
-OG Anunoby,
-Jamal Murray,
-Brandon Ingram,
-Michael Porter,
-Shai Gilgeous-Alexander,
-Donovan Mitchell,
-LaMelo Ball,
-Tyrese Maxey,
-Jayson Tatum,
-Bam Adebayo,
-De'Aaron Fox,
-Desmond Bane,
-Deandre Ayton,
-James Harden,
-CJ McCollum,
-Julius Randle,
-Immanuel Quickley,
-Khris Middleton,
-Jrue Holiday,
-Isaiah Hartenstein,
-Jerami Grant,
-Jordan Poole,
-Dejounte Murray,
-Devin Vassell,
-Kristaps Porzingis,
-Tyler Herro,
-Nicolas Claxton,
-Miles Bridges,
-John Collins,
-Andrew Wiggins,
-Anfernee Simons,
-RJ Barrett,
-Tobias Harris,
-Jaren Jackson Jr,
-Jonathan Isaac,
-Jalen Brunson,
-Terry Rozier,
-Draymond Green,
-Kyle Kuzma,
-DeMar DeRozan,
-Mikal Bridges,
-Jaden McDaniels,
-Brook Lopez,
-Bruce Brown,
-Aaron Gordon,
-Kentavious Caldwell-Pope,
-Cameron Johnson,
-Malcolm Brogdon,
-Clint Capela,
-Dillon Brooks,
-De'Andre Hunter,
-Lonzo Ball,
-Marcus Smart,
-Derrick White,
-Nikola Vucevic,
-Jarrett Allen,
-Myles Turner,
-Jakob Poeltl,
-Duncan Robinson,
-Norman Powell,
-Bojan Bogdanovic,
-Keldon Johnson,
-D'Angelo Russell,
-Collin Sexton,
-Josh Hart,
-Jusuf Nurkic,
-Harrison Barnes,
-Patrick Williams,
-Malik Monk,
-Bogdan Bogdanovic,
-Rui Hachimura,
-Kevin Huerter,
-Zach Collins,
-Caris LeVert,
-Luguentz Dort,
-Tim Hardaway Jr,
-Klay Thompson,
-Grayson Allen,
-Deni Avdija,
-PJ Washington,
-Max Strus,
-Isaiah Stewart,
-Dorian Finney-Smith,
-Mitchell Robinson,
-Jordan Clarkson,
-Onyeka Okongwu,
-Naz Reid,
-Cade Cunningham,
-Daniel Gafford,
-Grant Williams,
-Dennis Schroeder,
-Isaiah Joe,
-Austin Reaves,
-Herb Jones,
-Obi Toppin,
-Cole Anthony,
-De'Anthony Melton,
-Kelly Olynyk,
-Victor Wembanyama,
-Josh Green,
-Richaun Holmes,
-Steven Adams,
-Bobby Portis,
-Zaccharie Risacher,
-Brandon Clarke,
-Marvin Bagley,
-Jalen Green,
-Robert Williams,
-Paolo Banchero,
-Coby White,
-Wendell Carter,
-Ivica Zubac,
-PJ Tucker,
-Donte DiVincenzo,
-Brandon Miller,
-Terance Mann,
-Alex Sarr,
-Evan Mobley,
-Larry Nance Jr,
-Matisse Thybulle,
-Gabe Vincent,
-Maxi Kleber,
-Aaron Nesmith,
-Moritz Wagner,
-Chet Holmgren,
-Chris Boucher,
-Jarred Vanderbilt,
-Aaron Wiggins,
-Chris Paul,
-Scoot Henderson,
-Isaac Okoro,
-Scottie Barnes,
-Reed Sheppard,
-Mike Conley,
-Jonas Valanciunas,
-Alex Caruso,
-Jabari Smith,
-Derrick Jones,
-Al Horford,
-Pat Connaughton,
-Royce O'Neale,
-TJ McConnell,
-Luke Kennard,
-Amen Thompson,
-Jalen Suggs,
-Gary Payton II,
-Stephon Castle,
-Tre Jones,
-Goga Bitadze,
-Zeke Nnaji,
-Keegan Murray,
-Kyle Anderson,
-Buddy Hield,
-Jalen Smith,
-Naji Marshall,
-Georges Niang,
-Ausar Thompson,
-Josh Giddey,
-Ron Holland,
-Caleb Martin,
-Cody Martin,
-Jock Landale,
-Kevon Looney,
-Jeff Green,
-Trey Lyles,
-Kelly Oubre,
-Jaden Ivey,
-KJ Martin,
-Vasilije Micic,
-Simone Fontecchio,
-Jonathan Kuminga,
-Anthony Black,
-Jae'Sean Tate,
-Gary Harris,
-Tidjane Salaun,
-Bennedict Mathurin,
-Max Christie,
-Franz Wagner,
-Ayo Dosunmu,
-Bilal Coulibaly,
-Donovan Clingan,
-Payton Pritchard,
-Kenrich Williams,
-Shaedon Sharpe,
-Jevon Carter,
-Davion Mitchell,
-Saddiq Bey,
-Jarace Walker,
-Rob Dillingham,
-Dean Wade,
-John Konchar,
-Ziaire Williams,
-Dyson Daniels,
-Malik Beasley,
-Precious Achiuwa,
-Chris Duarte,
-Taylor Hendricks,
-Moses Moody,
-Zach Edey,
-Corey Kispert,
-Russell Westbrook,
-Jeremy Sochan,
-Cason Wallace,
-Cody Williams,
-Alperen Sengun,
-Johnny Davis,
-Jett Howard,
-Davis Bertans,
-Reggie Jackson,
-Haywood Highsmith,
-Matas Buzelis,
-Dario Saric,
-Kris Dunn,
-Trey Murphy,
-Ousmane Dieng,
-Dereck Lively,
-Andre Drummond,
-Nick Richards,
-Drew Eubanks,
-Nikola Topic,
-Tre Mann,
-Jalen Williams,
-Gradey Dick,
-Jalen McDaniels,
-Miles McBride,
-Devin Carter,
-Nicolas Batum,
-Aaron Holiday,
-Jalen Duren,
-Jordan Hawkins,
-Jalen Johnson,
-Carlton Carrington,
-Isaiah Jackson,
-Nickeil Alexander-Walker,
-Ochai Agbaji,
-Kobe Bufkin,
-Quentin Grimes,
-Kel'el Ware,
-Bones Hyland,
-Mark Williams,
-Keyonte George,
-Cam Thomas,
-Jared McCain,
-Jaden Springer,
-Paul Reed,
-Dwight Powell,
-Day'Ron Sharpe,
-Santiago Aldama,
-Amir Coffey,
-Jalen Hood-Schifino,
-Kevin Love,
-Dalton Knecht,
-Tari Eason,
-Jaime Jaquez,
-Tristan da Silva,
-Brandin Podziemski,
-Dalen Terry,
-Cody Zeller,
-Sviatoslav Mykhailiuk,
-Ja'Kobe Walter,
-Cameron Whitmore,
-Jake LaRavia,
-Jaylon Tyson,
-Eric Gordon,
-Seth Curry,
-Taj Gibson,
-Tristan Thompson,
-Spencer Dinwiddie,
-Markieff Morris,
-DeAndre Jordan,
-James Johnson,
-Alec Burks,
-Joe Ingles,
-Cory Joseph,
-Kyle Lowry,
-Mason Plumlee,
-Alex Len,
-Doug McDermott,
-Garrett Temple,
-Patrick Mills,
-Noah Clowney,
-Kevin Porter,
-Malaki Branham,
-Yves Missi,
-Dante Exum,
-Dariq Whitehead,
-Nassir Little,
-Christian Braun,
-Johnny Juzang,
-DaRon Holmes,
-Josh Richardson,
-Christian Wood,
-Delon Wright,
-Cameron Payne,
-Tyus Jones,
-Julian Champagnie,
-Kyle Filipowski,
-Kris Murray,
-Taurean Prince,
-Walker Kessler,
-Shake Milton,
-Olivier-Maxence Prosper,
-Devonte Graham,
-David Roddy,
-Torrey Craig,
-Kyshawn George,
-Luke Kornet,
-Daniel Theis,
-Damion Lee,
-Monte Morris,
-AJ Johnson,
-Marcus Sasser,
-MarJon Beauchamp,
-Trendon Watford,
-Ben Sheppard,
-Keita Bates-Diop,
-Blake Wesley,
-Dillon Jones,
-Jae Crowder,
-Mo Bamba,
-Gary Trent Jr,
-Nick Smith,
-Brice Sensabaugh,
-Ty Jerome,
-Julian Strawther,
-Terrence Shannon Jr.,
-Wendell Moore,
-Kobe Brown,
-Ryan Dunn,
-Isaiah Collier,
-Baylor Scheierman,
-Nikola Jovic,
-Jaxson Hayes,
-Cam Reddish,
-Patrick Baldwin,
-DaQuan Jeffries,
-Talen Horton-Tucker,
-Vlatko Cancar,
-Javonte Green,
-Bol Bol,
-Jordan McLaughlin,
-Peyton Watson,
-Charlie Brown,
-Xavier Tillman,
-Anthony Gill,
-James Wiseman,
-Garrison Mathews,
-JaVale McGee,
-Lindy Waters III,
-Jeremiah Robinson-Earl,
-Dalano Banton,
-Sam Merrill,
-Duane Washington Jr,
-Vit Krejci,
-Neemias Queta,
-Keon Johnson,
-Luka Garza,
-Charles Bassey,
-Sandro Mamukelashvili,
-Vince Williams Jr,
-AJ Green,
-Colby Jones,
-Keon Ellis,
-Sam Hauser,
-Jericho Sims,
-Jay Huff,
-Scotty Pippen Jr,
-Tyler Kolek,
-Guerschon Yabusele,
-Duop Reath,
-Andrew Nembhard,
-Jaden Hardy,
-Josh Minott,
-Kennedy Chandler,
-Jaylin Williams,
-Caleb Houstan,
-Jabari Walker,
-Jose Alvarado,
-Julian Phillips,
-Craig Porter,
-Jalen Pickett,
-Hunter Tyson,
-GG Jackson,
-Andre Jackson Jr,
-Chris Livingston,
-Leonard Miller,
-Ricky Council,
-Sidy Cissoko,
-Mouhamed Gueye,
-Jordan Walsh,
-Maxwell Lewis,
-Jalen Wilson,
-Trayce Jackson-Davis,
-Gui Santos,
-Toumani Camara,
-Rayan Rupert,
-Oso Ighodaro,
-Jonathan Mogbo,
-Jamal Shead,
-Izaiah Brockington,
-Johnny Furphy,
-Pacome Dadiet,
-Landry Shamet,
-Karlo Matkovic,
-Eric Bledsoe,
-EJ Liddell,
-Ryan Rollins,
-Bobi Klintman,
-Cam Christie,
-Bronny James,
-Jaylen Wells,
-Pelle Larsson,
-Tyler Smith,
-Antonio Reeves,
-Adem Bona,
-KJ Jones,
-Bruno Fernando,
-Ariel Hukporti,
-Orlando Robinson,
-PJ Dozier,
-Josh Primo,
-Matt Ryan,
-Keshad Johnson,
-Trey Jemison,
-Nik Stauskas,
-KJ Simpson,
-Ulrich Chomche,
-Dominick Barlow,
-Keaton Wallace,
-JD Davison,
-Drew Peterson,
-Anton Watson,
-Tyrese Martin,
-Moussa Diabate,
-Adama Sanogo,
-Emoni Bates,
-JT Thor,
-Luke Travers,
-Kessler Edwards,
-Jazian Gortman,
-Brandon Williams,
-Trey Alexander,
-PJ Hall,
-Spencer Jones,
-Daniss Jenkins,
-Reece Beekman,
-Quinten Post,
-Pat Spencer,
-N'Faly Dante,
-Jack McVeigh,
-Nate Williams,
-Enrique Freeman,
-Quenton Jackson,
-Trentyn Flowers,
-Kai Jones,
-Jordan Miller,
-Christian Koloko,
-Quincy Olivari,
-Armel Traore,
-Yuki Kawamura,
-Cam Spencer,
-Josh Christopher,
-Dru Smith,
-Liam Robbins,
-Stanley Umude,
-Jaylen Clark,
-Jesse Edwards,
-Tristen Newton,
-BJ Boston,
-Jamal Cain,
-Kevin McCullar,
-Jacob Toppin,
-Alex Ducas,
-Adam Flagler,
-Ajay Mitchell,
-Mac McClung,
-Trevelin Queen,
-Jeff Dowtin,
-Justin Edwards,
-Jalen Bridges,
-Collin Gillespie,
-TyTy Washington,
-Bryce McGowens,
-Justin Minaya,
-Taze Moore,
-Isaiah Crawford,
-Mason Jones,
-Isaac Jones,
-David Duke,
-Harrison Ingram,
-Riley Minix,
-Jamison Battle,
-Micah Potter,
-Oscar Tshiebwe,
-Jared Butler,
-Justin Champagnie,
-Tristan Vukcevic,
-Branden Carlson,
-Juwan Morgan,
-Malik Fitts,
-Colin Castleton,
-AJ Lawson,
-Mamadi Diakite,
-Isaiah Wong,
-Daeqwon Plowden,
-Ricky Rubio,
-Pete Nance,
-Zyon Pullin,
-Isaiah Stevens,
-Emanuel Miller,
-Tosan Evbuomwan,
-Elijah Harkless,
-RayJ Dennis,
-Ron Harper Jr,
-Tolu Smith,
-Moses Brown,
-Keion Brooks,
-Lester Quinones,
-DJ Carton,
-Jason Preston,
-Jaylen Nowell,
-Elfrid Payton,
-Didi Louzada,
-Kylor Kelley,
-AJ Griffin,
-Cole Swider,
-Alondes Williams,
-Daishen Nix,
-DJ Steward,
-Seth Lundy,
-Cui Yongxi,
-Jaylen Martin,
-David Jones,
-Boo Buie,
-Jared Rhoden,
-Malevy Leons,
-Eugene Omoruyi,
-Javon Freeman-Liberty,
-Alex Reese,
-Jaylin Galloway,
-Anzejs Pasecniks,
-Taevion Kinsey,
-Malcolm Hill,
+"Player","Salary"
+"PLAYER","2024/25"
+"Stephen Curry","$55,761,217"
+"Nikola Jokic","$51,415,938"
+"Joel Embiid","$51,415,938"
+"Kevin Durant","$51,179,020"
+"Bradley Beal","$50,203,930"
+"Jaylen Brown","$49,205,800"
+"Karl-Anthony Towns","$49,205,800"
+"Devin Booker","$49,205,800"
+"Paul George","$49,205,800"
+"Kawhi Leonard","$49,205,800"
+"Jimmy Butler","$48,798,677"
+"Damian Lillard","$48,787,676"
+"Giannis Antetokounmpo","$48,787,676"
+"LeBron James","$48,728,845"
+"Rudy Gobert","$43,827,586"
+"Anthony Davis","$43,219,440"
+"Trae Young","$43,031,940"
+"Zach LaVine","$43,031,940"
+"Luka Doncic","$43,031,940"
+"Fred VanVleet","$42,846,615"
+"Lauri Markkanen","$42,176,400"
+"Tyrese Haliburton","$42,176,400"
+"Pascal Siakam","$42,176,400"
+"Anthony Edwards","$42,176,400"
+"Kyrie Irving","$41,000,000"
+"Domantas Sabonis","$40,500,000"
+"Ben Simmons","$40,338,144"
+"Darius Garland","$36,725,670"
+"Ja Morant","$36,725,670"
+"Zion Williamson","$36,725,670"
+"OG Anunoby","$36,637,932"
+"Jamal Murray","$36,016,200"
+"Brandon Ingram","$36,016,200"
+"Michael Porter","$35,859,950"
+"Shai Gilgeous-Alexander","$35,859,950"
+"Donovan Mitchell","$35,410,310"
+"LaMelo Ball","$35,147,000"
+"Tyrese Maxey","$35,147,000"
+"Jayson Tatum","$34,848,340"
+"Bam Adebayo","$34,848,340"
+"De'Aaron Fox","$34,848,340"
+"Desmond Bane","$34,005,250"
+"Deandre Ayton","$34,005,126"
+"James Harden","$33,653,846"
+"CJ McCollum","$33,333,333"
+"Julius Randle","$33,073,920"
+"Immanuel Quickley","$32,500,000"
+"Khris Middleton","$31,666,667"
+"Jrue Holiday","$30,000,000"
+"Isaiah Hartenstein","$30,000,000"
+"Jerami Grant","$29,793,104"
+"Jordan Poole","$29,651,786"
+"Dejounte Murray","$29,517,134"
+"Devin Vassell","$29,347,826"
+"Kristaps Porzingis","$29,268,293"
+"Tyler Herro","$29,000,000"
+"Nicolas Claxton","$27,556,817"
+"Miles Bridges","$27,173,913"
+"John Collins","$26,580,000"
+"Andrew Wiggins","$26,276,786"
+"Anfernee Simons","$25,892,857"
+"RJ Barrett","$25,794,643"
+"Tobias Harris","$25,365,854"
+"Jaren Jackson Jr","$25,257,798"
+"Jonathan Isaac","$25,000,000"
+"Jalen Brunson","$24,960,001"
+"Terry Rozier","$24,924,126"
+"Draymond Green","$24,107,143"
+"Kyle Kuzma","$23,522,727"
+"DeMar DeRozan","$23,400,000"
+"Mikal Bridges","$23,300,000"
+"Jaden McDaniels","$23,017,242"
+"Brook Lopez","$23,000,000"
+"Bruce Brown","$23,000,000"
+"Aaron Gordon","$22,841,455"
+"Kentavious Caldwell-Pope","$22,757,000"
+"Cameron Johnson","$22,500,000"
+"Malcolm Brogdon","$22,500,000"
+"Clint Capela","$22,265,280"
+"Dillon Brooks","$22,255,493"
+"De'Andre Hunter","$21,696,429"
+"Lonzo Ball","$21,395,348"
+"Marcus Smart","$20,210,285"
+"Derrick White","$20,071,429"
+"Nikola Vucevic","$20,000,000"
+"Jarrett Allen","$20,000,000"
+"Myles Turner","$19,928,500"
+"Jakob Poeltl","$19,500,000"
+"Duncan Robinson","$19,406,000"
+"Norman Powell","$19,241,379"
+"Bojan Bogdanovic","$19,032,850"
+"Keldon Johnson","$19,000,000"
+"D'Angelo Russell","$18,692,307"
+"Collin Sexton","$18,350,000"
+"Josh Hart","$18,144,000"
+"Jusuf Nurkic","$18,125,000"
+"Harrison Barnes","$18,000,000"
+"Patrick Williams","$18,000,000"
+"Malik Monk","$17,405,203"
+"Bogdan Bogdanovic","$17,260,000"
+"Rui Hachimura","$17,000,000"
+"Kevin Huerter","$16,830,357"
+"Zach Collins","$16,741,200"
+"Caris LeVert","$16,615,384"
+"Luguentz Dort","$16,500,000"
+"Tim Hardaway Jr","$16,193,183"
+"Klay Thompson","$15,873,016"
+"Grayson Allen","$15,625,000"
+"Deni Avdija","$15,625,000"
+"PJ Washington","$15,500,000"
+"Max Strus","$15,212,068"
+"Isaiah Stewart","$15,000,000"
+"Dorian Finney-Smith","$14,924,167"
+"Mitchell Robinson","$14,318,182"
+"Jordan Clarkson","$14,092,577"
+"Onyeka Okongwu","$14,000,000"
+"Naz Reid","$13,986,432"
+"Cade Cunningham","$13,940,809"
+"Daniel Gafford","$13,394,160"
+"Grant Williams","$13,025,250"
+"Dennis Schroeder","$13,025,250"
+"Isaiah Joe","$12,991,650"
+"Austin Reaves","$12,976,362"
+"Herb Jones","$12,976,362"
+"Obi Toppin","$12,975,000"
+"Cole Anthony","$12,900,000"
+"De'Anthony Melton","$12,822,000"
+"Kelly Olynyk","$12,804,878"
+"Victor Wembanyama","$12,768,664"
+"Josh Green","$12,654,321"
+"Richaun Holmes","$12,648,321"
+"Steven Adams","$12,600,000"
+"Bobby Portis","$12,578,286"
+"Zaccharie Risacher","$12,569,040"
+"Brandon Clarke","$12,500,000"
+"Marvin Bagley","$12,500,000"
+"Jalen Green","$12,483,048"
+"Robert Williams","$12,428,571"
+"Paolo Banchero","$12,160,800"
+"Coby White","$12,000,000"
+"Wendell Carter","$11,950,000"
+"Ivica Zubac","$11,743,210"
+"PJ Tucker","$11,539,000"
+"Donte DiVincenzo","$11,445,000"
+"Brandon Miller","$11,424,382"
+"Terance Mann","$11,423,077"
+"Alex Sarr","$11,245,680"
+"Evan Mobley","$11,227,657"
+"Larry Nance Jr","$11,205,000"
+"Matisse Thybulle","$11,025,000"
+"Gabe Vincent","$11,000,000"
+"Maxi Kleber","$11,000,000"
+"Aaron Nesmith","$11,000,000"
+"Moritz Wagner","$11,000,000"
+"Chet Holmgren","$10,880,640"
+"Chris Boucher","$10,810,000"
+"Jarred Vanderbilt","$10,714,286"
+"Aaron Wiggins","$10,514,017"
+"Chris Paul","$10,460,000"
+"Scoot Henderson","$10,259,449"
+"Isaac Okoro","$10,185,186"
+"Scottie Barnes","$10,130,980"
+"Reed Sheppard","$10,098,960"
+"Mike Conley","$9,975,962"
+"Jonas Valanciunas","$9,900,000"
+"Alex Caruso","$9,890,000"
+"Jabari Smith","$9,770,880"
+"Derrick Jones","$9,523,810"
+"Al Horford","$9,500,000"
+"Pat Connaughton","$9,423,869"
+"Royce O'Neale","$9,375,000"
+"TJ McConnell","$9,300,000"
+"Luke Kennard","$9,250,000"
+"Amen Thompson","$9,249,748"
+"Jalen Suggs","$9,188,385"
+"Gary Payton II","$9,130,000"
+"Stephon Castle","$9,105,120"
+"Tre Jones","$9,104,167"
+"Goga Bitadze","$9,057,971"
+"Zeke Nnaji","$8,888,889"
+"Keegan Murray","$8,809,560"
+"Kyle Anderson","$8,780,488"
+"Buddy Hield","$8,780,488"
+"Jalen Smith","$8,571,429"
+"Naji Marshall","$8,571,429"
+"Georges Niang","$8,500,000"
+"Ausar Thompson","$8,376,291"
+"Josh Giddey","$8,352,367"
+"Ron Holland","$8,245,320"
+"Caleb Martin","$8,149,001"
+"Cody Martin","$8,120,000"
+"Jock Landale","$8,000,000"
+"Kevon Looney","$8,000,000"
+"Jeff Green","$8,000,000"
+"Trey Lyles","$8,000,000"
+"Kelly Oubre","$7,983,000"
+"Jaden Ivey","$7,977,240"
+"KJ Martin","$7,975,000"
+"Vasilije Micic","$7,723,000"
+"Simone Fontecchio","$7,692,308"
+"Jonathan Kuminga","$7,636,307"
+"Anthony Black","$7,607,754"
+"Jae'Sean Tate","$7,565,217"
+"Gary Harris","$7,500,000"
+"Tidjane Salaun","$7,488,720"
+"Bennedict Mathurin","$7,245,720"
+"Max Christie","$7,142,857"
+"Franz Wagner","$7,007,092"
+"Ayo Dosunmu","$7,000,000"
+"Bilal Coulibaly","$6,945,240"
+"Donovan Clingan","$6,836,400"
+"Payton Pritchard","$6,696,429"
+"Kenrich Williams","$6,669,000"
+"Shaedon Sharpe","$6,614,160"
+"Jevon Carter","$6,500,000"
+"Davion Mitchell","$6,451,077"
+"Saddiq Bey","$6,440,678"
+"Jarace Walker","$6,362,433"
+"Rob Dillingham","$6,262,920"
+"Dean Wade","$6,166,667"
+"John Konchar","$6,165,000"
+"Ziaire Williams","$6,133,005"
+"Dyson Daniels","$6,059,520"
+"Malik Beasley","$6,000,000"
+"Precious Achiuwa","$6,000,000"
+"Chris Duarte","$5,893,768"
+"Taylor Hendricks","$5,848,366"
+"Moses Moody","$5,803,269"
+"Zach Edey","$5,756,880"
+"Corey Kispert","$5,705,887"
+"Russell Westbrook","$5,631,296"
+"Jeremy Sochan","$5,570,040"
+"Cason Wallace","$5,555,920"
+"Cody Williams","$5,469,120"
+"Alperen Sengun","$5,424,654"
+"Johnny Davis","$5,291,160"
+"Jett Howard","$5,278,165"
+"Davis Bertans","$5,250,000"
+"Reggie Jackson","$5,250,000"
+"Haywood Highsmith","$5,200,000"
+"Matas Buzelis","$5,195,520"
+"Dario Saric","$5,168,000"
+"Kris Dunn","$5,168,000"
+"Trey Murphy","$5,159,854"
+"Ousmane Dieng","$5,027,040"
+"Dereck Lively","$5,014,409"
+"Andre Drummond","$5,000,000"
+"Nick Richards","$5,000,000"
+"Drew Eubanks","$5,000,000"
+"Nikola Topic","$4,935,960"
+"Tre Mann","$4,908,373"
+"Jalen Williams","$4,775,760"
+"Gradey Dick","$4,763,543"
+"Jalen McDaniels","$4,741,800"
+"Miles McBride","$4,710,144"
+"Devin Carter","$4,689,000"
+"Nicolas Batum","$4,668,000"
+"Aaron Holiday","$4,668,000"
+"Jalen Duren","$4,536,840"
+"Jordan Hawkins","$4,525,706"
+"Jalen Johnson","$4,510,905"
+"Carlton Carrington","$4,454,880"
+"Isaiah Jackson","$4,435,380"
+"Nickeil Alexander-Walker","$4,312,500"
+"Ochai Agbaji","$4,310,280"
+"Kobe Bufkin","$4,298,956"
+"Quentin Grimes","$4,296,682"
+"Kel'el Ware","$4,231,800"
+"Bones Hyland","$4,158,439"
+"Mark Williams","$4,094,280"
+"Keyonte George","$4,084,265"
+"Cam Thomas","$4,041,249"
+"Jared McCain","$4,020,360"
+"Jaden Springer","$4,018,363"
+"Paul Reed","$4,015,938"
+"Dwight Powell","$4,000,000"
+"Day'Ron Sharpe","$3,989,122"
+"Santiago Aldama","$3,960,531"
+"Amir Coffey","$3,938,271"
+"Jalen Hood-Schifino","$3,879,830"
+"Kevin Love","$3,850,000"
+"Dalton Knecht","$3,819,120"
+"Tari Eason","$3,695,160"
+"Jaime Jaquez","$3,685,800"
+"Tristan da Silva","$3,628,440"
+"Brandin Podziemski","$3,519,960"
+"Dalen Terry","$3,510,480"
+"Cody Zeller","$3,500,000"
+"Sviatoslav Mykhailiuk","$3,500,000"
+"Ja'Kobe Walter","$3,465,000"
+"Cameron Whitmore","$3,379,068"
+"Jake LaRavia","$3,352,680"
+"Jaylon Tyson","$3,326,160"
+"Eric Gordon","$3,303,771"
+"Seth Curry","$3,303,771"
+"Taj Gibson","$3,303,771"
+"Tristan Thompson","$3,303,771"
+"Spencer Dinwiddie","$3,303,771"
+"Markieff Morris","$3,303,771"
+"DeAndre Jordan","$3,303,771"
+"James Johnson","$3,303,771"
+"Alec Burks","$3,303,771"
+"Joe Ingles","$3,303,771"
+"Cory Joseph","$3,303,771"
+"Kyle Lowry","$3,303,771"
+"Mason Plumlee","$3,303,771"
+"Alex Len","$3,303,771"
+"Doug McDermott","$3,303,771"
+"Garrett Temple","$3,303,771"
+"Patrick Mills","$3,303,771"
+"Noah Clowney","$3,244,080"
+"Kevin Porter","$3,237,691"
+"Malaki Branham","$3,217,920"
+"Yves Missi","$3,193,200"
+"Dante Exum","$3,150,000"
+"Dariq Whitehead","$3,114,342"
+"Nassir Little","$3,107,143"
+"Christian Braun","$3,089,640"
+"Johnny Juzang","$3,087,519"
+"DaRon Holmes","$3,065,640"
+"Josh Richardson","$3,051,153"
+"Christian Wood","$3,036,040"
+"Delon Wright","$3,003,427"
+"Cameron Payne","$3,003,427"
+"Tyus Jones","$3,003,427"
+"Julian Champagnie","$3,000,000"
+"Kyle Filipowski","$3,000,000"
+"Kris Murray","$2,990,040"
+"Taurean Prince","$2,988,550"
+"Walker Kessler","$2,965,920"
+"Shake Milton","$2,875,000"
+"Olivier-Maxence Prosper","$2,870,406"
+"Devonte Graham","$2,850,000"
+"David Roddy","$2,847,240"
+"Torrey Craig","$2,845,342"
+"Kyshawn George","$2,825,520"
+"Luke Kornet","$2,800,834"
+"Daniel Theis","$2,800,834"
+"Damion Lee","$2,800,834"
+"Monte Morris","$2,800,834"
+"AJ Johnson","$2,795,294"
+"Marcus Sasser","$2,755,229"
+"MarJon Beauchamp","$2,733,720"
+"Trendon Watford","$2,726,603"
+"Ben Sheppard","$2,664,031"
+"Keita Bates-Diop","$2,654,644"
+"Blake Wesley","$2,624,280"
+"Dillon Jones","$2,622,360"
+"Jae Crowder","$2,620,232"
+"Mo Bamba","$2,613,120"
+"Gary Trent Jr","$2,613,120"
+"Nick Smith","$2,587,108"
+"Brice Sensabaugh","$2,571,030"
+"Ty Jerome","$2,560,975"
+"Julian Strawther","$2,552,596"
+"Terrence Shannon Jr.","$2,546,640"
+"Wendell Moore","$2,537,040"
+"Kobe Brown","$2,534,024"
+"Ryan Dunn","$2,530,800"
+"Isaiah Collier","$2,512,680"
+"Baylor Scheierman","$2,494,320"
+"Nikola Jovic","$2,464,200"
+"Jaxson Hayes","$2,463,946"
+"Cam Reddish","$2,463,946"
+"Patrick Baldwin","$2,448,840"
+"DaQuan Jeffries","$2,425,403"
+"Talen Horton-Tucker","$2,425,403"
+"Vlatko Cancar","$2,425,403"
+"Javonte Green","$2,425,403"
+"Bol Bol","$2,425,403"
+"Jordan McLaughlin","$2,425,403"
+"Peyton Watson","$2,413,560"
+"Charlie Brown","$2,237,692"
+"Xavier Tillman","$2,237,691"
+"Anthony Gill","$2,237,691"
+"James Wiseman","$2,237,691"
+"Garrison Mathews","$2,230,253"
+"JaVale McGee","$2,208,856"
+"Lindy Waters III","$2,196,970"
+"Jeremiah Robinson-Earl","$2,196,970"
+"Dalano Banton","$2,196,970"
+"Sam Merrill","$2,164,993"
+"Duane Washington Jr","$2,162,607"
+"Vit Krejci","$2,162,606"
+"Neemias Queta","$2,162,606"
+"Keon Johnson","$2,162,606"
+"Luka Garza","$2,162,606"
+"Charles Bassey","$2,162,606"
+"Sandro Mamukelashvili","$2,162,606"
+"Vince Williams Jr","$2,120,693"
+"AJ Green","$2,120,693"
+"Colby Jones","$2,120,693"
+"Keon Ellis","$2,120,693"
+"Sam Hauser","$2,092,344"
+"Jericho Sims","$2,092,344"
+"Jay Huff","$2,088,033"
+"Scotty Pippen Jr","$2,087,519"
+"Tyler Kolek","$2,087,519"
+"Guerschon Yabusele","$2,087,519"
+"Duop Reath","$2,048,780"
+"Andrew Nembhard","$2,019,699"
+"Jaden Hardy","$2,019,699"
+"Josh Minott","$2,019,699"
+"Kennedy Chandler","$2,019,699"
+"Jaylin Williams","$2,019,699"
+"Caleb Houstan","$2,019,699"
+"Jabari Walker","$2,019,699"
+"Jose Alvarado","$1,988,598"
+"Julian Phillips","$1,891,857"
+"Craig Porter","$1,891,857"
+"Jalen Pickett","$1,891,857"
+"Hunter Tyson","$1,891,857"
+"GG Jackson","$1,891,857"
+"Andre Jackson Jr","$1,891,857"
+"Chris Livingston","$1,891,857"
+"Leonard Miller","$1,891,857"
+"Ricky Council","$1,891,857"
+"Sidy Cissoko","$1,891,857"
+"Mouhamed Gueye","$1,891,857"
+"Jordan Walsh","$1,891,857"
+"Maxwell Lewis","$1,891,857"
+"Jalen Wilson","$1,891,857"
+"Trayce Jackson-Davis","$1,891,857"
+"Gui Santos","$1,891,857"
+"Toumani Camara","$1,891,857"
+"Rayan Rupert","$1,891,857"
+"Oso Ighodaro","$1,862,265"
+"Jonathan Mogbo","$1,862,265"
+"Jamal Shead","$1,862,265"
+"Izaiah Brockington","$1,862,265"
+"Johnny Furphy","$1,850,842"
+"Pacome Dadiet","$1,808,080"
+"Landry Shamet","$1,682,008"
+"Karlo Matkovic","$1,407,153"
+"Eric Bledsoe","$1,300,000"
+"EJ Liddell","$1,285,475"
+"Ryan Rollins","$1,184,388"
+"Bobi Klintman","$1,157,153"
+"Cam Christie","$1,157,153"
+"Bronny James","$1,157,153"
+"Jaylen Wells","$1,157,153"
+"Pelle Larsson","$1,157,153"
+"Tyler Smith","$1,157,153"
+"Antonio Reeves","$1,157,153"
+"Adem Bona","$1,157,153"
+"KJ Jones","$1,157,153"
+"Bruno Fernando","$1,115,128"
+"Ariel Hukporti","$1,112,306"
+"Orlando Robinson","$1,079,751"
+"PJ Dozier","$1,051,255"
+"Josh Primo","$1,000,000"
+"Matt Ryan","$978,541"
+"Keshad Johnson","$937,214"
+"Trey Jemison","$864,902"
+"Nik Stauskas","$702,311"
+"KJ Simpson","$578,577"
+"Ulrich Chomche","$578,577"
+"Dominick Barlow","$578,577"
+"Keaton Wallace","$578,577"
+"JD Davison","$578,577"
+"Drew Peterson","$578,577"
+"Anton Watson","$578,577"
+"Tyrese Martin","$578,577"
+"Moussa Diabate","$578,577"
+"Adama Sanogo","$578,577"
+"Emoni Bates","$578,577"
+"JT Thor","$578,577"
+"Luke Travers","$578,577"
+"Kessler Edwards","$578,577"
+"Jazian Gortman","$578,577"
+"Brandon Williams","$578,577"
+"Trey Alexander","$578,577"
+"PJ Hall","$578,577"
+"Spencer Jones","$578,577"
+"Daniss Jenkins","$578,577"
+"Reece Beekman","$578,577"
+"Quinten Post","$578,577"
+"Pat Spencer","$578,577"
+"N'Faly Dante","$578,577"
+"Jack McVeigh","$578,577"
+"Nate Williams","$578,577"
+"Enrique Freeman","$578,577"
+"Quenton Jackson","$578,577"
+"Trentyn Flowers","$578,577"
+"Kai Jones","$578,577"
+"Jordan Miller","$578,577"
+"Christian Koloko","$578,577"
+"Quincy Olivari","$578,577"
+"Armel Traore","$578,577"
+"Yuki Kawamura","$578,577"
+"Cam Spencer","$578,577"
+"Josh Christopher","$578,577"
+"Dru Smith","$578,577"
+"Liam Robbins","$578,577"
+"Stanley Umude","$578,577"
+"Jaylen Clark","$578,577"
+"Jesse Edwards","$578,577"
+"Tristen Newton","$578,577"
+"BJ Boston","$578,577"
+"Jamal Cain","$578,577"
+"Kevin McCullar","$578,577"
+"Jacob Toppin","$578,577"
+"Alex Ducas","$578,577"
+"Adam Flagler","$578,577"
+"Ajay Mitchell","$578,577"
+"Mac McClung","$578,577"
+"Trevelin Queen","$578,577"
+"Jeff Dowtin","$578,577"
+"Justin Edwards","$578,577"
+"Jalen Bridges","$578,577"
+"Collin Gillespie","$578,577"
+"TyTy Washington","$578,577"
+"Bryce McGowens","$578,577"
+"Justin Minaya","$578,577"
+"Taze Moore","$578,577"
+"Isaiah Crawford","$578,577"
+"Mason Jones","$578,577"
+"Isaac Jones","$578,577"
+"David Duke","$578,577"
+"Harrison Ingram","$578,577"
+"Riley Minix","$578,577"
+"Jamison Battle","$578,577"
+"Micah Potter","$578,577"
+"Oscar Tshiebwe","$578,577"
+"Jared Butler","$578,577"
+"Justin Champagnie","$578,577"
+"Tristan Vukcevic","$578,577"
+"Branden Carlson","$576,273"
+"Juwan Morgan","$576,230"
+"Malik Fitts","$555,217"
+"Colin Castleton","$534,045"
+"AJ Lawson","$479,642"
+"Mamadi Diakite","$464,050"
+"Isaiah Wong","$427,879"
+"Daeqwon Plowden","$424,951"
+"Ricky Rubio","$424,672"
+"Pete Nance","$391,905"
+"Zyon Pullin","$379,911"
+"Isaiah Stevens","$350,668"
+"Emanuel Miller","$344,234"
+"Tosan Evbuomwan","$331,365"
+"Elijah Harkless","$331,365"
+"RayJ Dennis","$324,931"
+"Ron Harper Jr","$315,280"
+"Tolu Smith","$315,280"
+"Moses Brown","$306,660"
+"Keion Brooks","$305,628"
+"Lester Quinones","$289,289"
+"DJ Carton","$289,289"
+"Jason Preston","$289,289"
+"Jaylen Nowell","$278,782"
+"Elfrid Payton","$274,809"
+"Didi Louzada","$268,032"
+"Kylor Kelley","$250,937"
+"AJ Griffin","$250,000"
+"Cole Swider","$244,502"
+"Alondes Williams","$244,502"
+"Daishen Nix","$238,068"
+"DJ Steward","$215,548"
+"Seth Lundy","$186,594"
+"Cui Yongxi","$176,943"
+"Jaylen Martin","$175,480"
+"David Jones","$175,480"
+"Boo Buie","$143,308"
+"Jared Rhoden","$135,120"
+"Malevy Leons","$126,356"
+"Eugene Omoruyi","$124,288"
+"Javon Freeman-Liberty","$100,000"
+"Alex Reese","$79,804"
+"Jaylin Galloway","$77,500"
+"Anzejs Pasecniks","$77,500"
+"Taevion Kinsey","$77,500"
+"Malcolm Hill","$75,000"
